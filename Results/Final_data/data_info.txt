@@ -1,4 +1,0 @@
-X_train shape: (5634, 13601)
-X_test shape: (1409, 13601)
-Y_train shape: (5634,)
-Y_test shape: (1409,)
